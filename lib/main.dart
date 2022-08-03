@@ -1,4 +1,4 @@
-import 'package:animation_trainig/signin_screen_widget.dart';
+import 'package:bouncy_loading_animation/signin_screen_widget.dart';
 import 'package:flutter/material.dart';
 
 void main() {

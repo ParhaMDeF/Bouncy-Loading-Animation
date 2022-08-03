@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.animation_trainig">
    <application
-        android:label="animation_trainig"
+        android:label="Bouncy Loading Animation"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
